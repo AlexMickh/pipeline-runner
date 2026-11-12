@@ -1,0 +1,5 @@
+tasks:
+  - name: test
+    cmds:
+      - chmod +x test.sh
+      - ./test.sh
